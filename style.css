@@ -5,12 +5,15 @@
 .jumbotron{
     background: url("images/DSCF5148.JPG") no-repeat center center; 
   background-size: cover;
-  height: 350px;
+  height: 400px;
 }
 p{
     font-size: 48px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+   
 }
 h1{
     font-size: 18px;
     color: whitesmoke;
-}
+ 
