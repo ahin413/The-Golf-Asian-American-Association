@@ -1,5 +1,6 @@
 .top {
-    background-color:rgb(3, 63, 3)
+    background-color:rgb(3, 63, 3);
+    opacity: .7;
 }
 
 .jumbotron{
