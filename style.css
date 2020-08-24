@@ -3,7 +3,7 @@
 }
 
 .jumbotron{
-    background: url("images/DSCF5148.JPG") no-repeat center center; 
+    background: url("images/TES05840.jpeg") no-repeat center center; 
   background-size: cover;
   height: 400px;
 }
@@ -16,4 +16,5 @@ p{
 h1{
     font-size: 18px;
     color: whitesmoke;
+    text-align: center;
 }
