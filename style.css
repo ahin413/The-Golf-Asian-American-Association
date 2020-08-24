@@ -1,3 +1,16 @@
 .top {
-    background-color: aquamarine;
+    background-color:rgb(3, 63, 3)
+}
+
+.jumbotron{
+    background: url("images/DSCF5148.JPG") no-repeat center center; 
+  background-size: cover;
+  height: 350px;
+}
+p{
+    font-size: 48px;
+}
+h1{
+    font-size: 18px;
+    color: whitesmoke;
 }
